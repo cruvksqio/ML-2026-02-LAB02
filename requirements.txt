@@ -6,3 +6,4 @@ matplotlib
 seaborn
 umap-learn
 pillow
+python-dotenv
